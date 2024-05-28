@@ -2,7 +2,6 @@
 *.DS_Store
 *.egg-info
 *__pycache__
-*.png
 *.pkl
 *.jpg
 .vscode/
