@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.29)  28 MAY 2024 15:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.29)  9 SEP 2024 17:56
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
@@ -327,7 +328,7 @@ File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count291
 \l__pdf_internal_box=\box55
 )
-No file main.aux.
+(C:/Users/seokj/PycharmProjects/deepul/out/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
@@ -348,6 +349,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
+
 (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count292
@@ -371,6 +373,9 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package hyperref Info: Link coloring OFF on input line 33.
+
+(C:/Users/seokj/PycharmProjects/deepul/out/main.out)
+(C:/Users/seokj/PycharmProjects/deepul/out/main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -660,35 +665,35 @@ File: figures/q5_a_train_plot.png Graphic file (type png)
 <use figures/q5_a_train_plot.png>
 Package pdftex.def Info: figures/q5_a_train_plot.png  used on input line 390.
 (pdftex.def)             Requested size: 125.18227pt x 93.88548pt.
-<figures/q5_a_samples.png, id=145, 462.528pt x 346.896pt>
+<figures/q5_a_samples.png, id=145, 289.08pt x 433.62pt>
 File: figures/q5_a_samples.png Graphic file (type png)
 <use figures/q5_a_samples.png>
 Package pdftex.def Info: figures/q5_a_samples.png  used on input line 396.
-(pdftex.def)             Requested size: 271.22293pt x 203.42825pt.
+(pdftex.def)             Requested size: 271.22293pt x 406.8552pt.
 [11 <./figures/q5_a_train_plot.png> <./figures/q5_a_samples.png>]
 <figures/q6_a_train_plot.png, id=156, 462.528pt x 346.896pt>
 File: figures/q6_a_train_plot.png Graphic file (type png)
 <use figures/q6_a_train_plot.png>
 Package pdftex.def Info: figures/q6_a_train_plot.png  used on input line 419.
 (pdftex.def)             Requested size: 187.77022pt x 140.83087pt.
-<figures/q6_a_samples_img_conditioned.png, id=157, 462.528pt x 346.896pt>
+<figures/q6_a_samples_img_conditioned.png, id=157, 433.62pt x 433.62pt>
 File: figures/q6_a_samples_img_conditioned.png Graphic file (type png)
 <use figures/q6_a_samples_img_conditioned.png>
 Package pdftex.def Info: figures/q6_a_samples_img_conditioned.png  used on inpu
 t line 425.
-(pdftex.def)             Requested size: 187.77022pt x 140.83087pt.
-<figures/q6_a_samples_text_conditioned.png, id=158, 462.528pt x 346.896pt>
+(pdftex.def)             Requested size: 187.77022pt x 187.76964pt.
+<figures/q6_a_samples_text_conditioned.png, id=158, 433.62pt x 433.62pt>
 File: figures/q6_a_samples_text_conditioned.png Graphic file (type png)
 <use figures/q6_a_samples_text_conditioned.png>
 Package pdftex.def Info: figures/q6_a_samples_text_conditioned.png  used on inp
 ut line 430.
-(pdftex.def)             Requested size: 187.77022pt x 140.83087pt.
-<figures/q6_a_samples_unconditional.png, id=159, 462.528pt x 346.896pt>
+(pdftex.def)             Requested size: 187.77022pt x 187.76964pt.
+<figures/q6_a_samples_unconditional.png, id=159, 433.62pt x 433.62pt>
 File: figures/q6_a_samples_unconditional.png Graphic file (type png)
 <use figures/q6_a_samples_unconditional.png>
 Package pdftex.def Info: figures/q6_a_samples_unconditional.png  used on input 
 line 436.
-(pdftex.def)             Requested size: 187.77022pt x 140.83087pt.
+(pdftex.def)             Requested size: 187.77022pt x 187.76964pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 413--439
 
@@ -696,26 +701,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 413--439
 
 [12 <./figures/q6_a_train_plot.png> <./figures/q6_a_samples_img_conditioned.png
 > <./figures/q6_a_samples_text_conditioned.png> <./figures/q6_a_samples_uncondi
-tional.png>] (./main.aux)
+tional.png>] (C:/Users/seokj/PycharmProjects/deepul/out/main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11773 strings out of 474104
- 189447 string characters out of 5747502
+ 11782 strings out of 474104
+ 189997 string characters out of 5747502
  1933496 words of memory out of 5000000
- 33999 multiletter control sequences out of 15000+600000
+ 34001 multiletter control sequences out of 15000+600000
  559328 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,9n,79p,669b,641s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -724,7 +722,8 @@ live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsl10.pfb>
-Output written on main.pdf (12 pages, 1013693 bytes).
+Output written on C:/Users/seokj/PycharmProjects/deepul/out/main.pdf (12 pages,
+ 2507470 bytes).
 PDF statistics:
  206 PDF objects out of 1000 (max. 8388607)
  102 compressed objects within 2 object streams
