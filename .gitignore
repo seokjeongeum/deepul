@@ -6,3 +6,4 @@
 *.jpg
 .vscode/
 homeworks/hw2/hw2_data.zip
+homeworks/hw3/data/cifar-10-python.tar.gz
